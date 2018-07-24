@@ -1,4 +1,6 @@
 # appMovil
 Prueba Jira
 
-#Intento de sincronización
+#Intento de sincronizacion
+
+#Segundo intento de sincronizacion
